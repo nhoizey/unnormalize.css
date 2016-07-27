@@ -9,7 +9,7 @@
  */
  
 a {
-  -webkit-text-decoration-skip: initial;
-  text-decoration-skip: initial; 
+  -webkit-text-decoration-skip: revert;
+  text-decoration-skip: revert; 
 }
  
